@@ -1,0 +1,20 @@
+{
+  "name": "thesubdb-hash",
+  "version": "1.0.0",
+  "description": "Is used for calculating the hash of a file based on thesubdb.com hash function.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thesubdb",
+    "algorithm",
+    "hash"
+  ],
+  "author": "Fredrik Eklööf",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
