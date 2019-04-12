@@ -12,6 +12,10 @@
     "algorithm",
     "hash"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freddjah/thesubdb-hash"
+  },
   "author": "Fredrik Eklööf",
   "license": "ISC",
   "dependencies": {
